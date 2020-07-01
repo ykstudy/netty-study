@@ -15,7 +15,7 @@
     <properties>
         <slf4j.version>1.7.30</slf4j.version>
         <lombok.version>1.18.12</lombok.version>
-        <log4j.version>2.13.1</log4j.version>
+        <log4j.version>2.13.2</log4j.version>
     </properties>
     <dependencies>
         <!-- https://mvnrepository.com/artifact/org.slf4j/slf4j-api -->
